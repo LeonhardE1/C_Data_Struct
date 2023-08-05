@@ -1,0 +1,14 @@
+# ninja log v5
+2	61	7123407240407240	CMakeFiles/List_Begin.dir/Linear_List/List_Begin.c.obj	3cbdbf256ff8e980
+112	210	7128989415398398	List_Begin.exe	f0695b19ec8920d3
+9	112	7128989414439978	CMakeFiles/List_Begin.dir/Linear_List/List_Sq.c.obj	bf48aa922027c8e6
+0	97	7129186351665272	CMakeFiles/List_Link.dir/Linear_List/List_Link.c.obj	fca7821abea7325a
+97	223	7129186352894687	List_Link.exe	a00d2448b771ed55
+1	63	7129441835536355	CMakeFiles/Link_Circular_List.dir/Linear_List/Link_Circular_List.c.obj	dbcfb7e2c076794e
+63	145	7129441836326512	Link_Circular_List.exe	a3dc8eb63e3868d6
+2	75	7129452369183310	CMakeFiles/Link_Circular_List.dir/Linear_List/Link_Circular_List.c.obj	dbcfb7e2c076794e
+76	171	7129452370113339	Link_Circular_List.exe	a3dc8eb63e3868d6
+0	68	7129452487602450	CMakeFiles/Link_Double_List.dir/Linear_List/Link_Double_List.c.obj	ba1b25766b921100
+68	150	7129452488392281	Link_Double_List.exe	762f94facc398b8b
+1	72	7129453174082781	CMakeFiles/Link_Double_List.dir/Linear_List/Link_Double_List.c.obj	ba1b25766b921100
+73	166	7129453174980905	Link_Double_List.exe	762f94facc398b8b
