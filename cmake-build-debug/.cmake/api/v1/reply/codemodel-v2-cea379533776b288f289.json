@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "C_Data_Struct",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "C_Data_Struct::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C_Data_Struct-Debug-9c2f8a52e19caeff79c9.json",
+					"name" : "C_Data_Struct",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Link_Circular_List::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Link_Circular_List-Debug-4045c83466499099d676.json",
+					"name" : "Link_Circular_List",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Link_Double_List::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Link_Double_List-Debug-cce482edca5f936150d9.json",
+					"name" : "Link_Double_List",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "List_Begin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-List_Begin-Debug-e0aef4b13ff74f574914.json",
+					"name" : "List_Begin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "List_Link::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-List_Link-Debug-2ecfc04dccbd25c3bc87.json",
+					"name" : "List_Link",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Queue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Queue-Debug-a3934a78a56d4ba7e0ca.json",
+					"name" : "Queue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Stack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Stack-Debug-9341529a6c40dda16910.json",
+					"name" : "Stack",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/Clion/C_Data_Struct/cmake-build-debug",
+		"source" : "F:/Clion/C_Data_Struct"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

@@ -3,7 +3,7 @@
 // 关于单向链表的学习
 //
 
-#include "All.h"
+#include "../All.h"
 
 typedef struct LNode{
     ElemType data;

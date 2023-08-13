@@ -25,4 +25,7 @@ typedef char ElemType;
 #define LIST_INIT_SIZE 100 //线性表存储空间的初始分配量
 #define LIST_INCREMENT 10 //线性表存储空间的分配量
 
+#define STACK_INIT_SIZE 100 //栈存储空间的初始分配量
+#define STACK_INCREMENT 10 //栈存储空间的分配量
+
 #endif //C_DATA_STRUCT_ALL_H

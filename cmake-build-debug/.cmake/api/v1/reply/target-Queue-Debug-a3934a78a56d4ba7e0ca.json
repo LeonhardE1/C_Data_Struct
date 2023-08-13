@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "List_Begin.exe"
+			"path" : "Queue.exe"
 		},
 		{
-			"path" : "List_Begin.pdb"
+			"path" : "Queue.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 8,
+				"line" : 16,
 				"parent" : 0
 			}
 		]
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "List_Begin::@6890427a1f51a3e7e1df",
+	"id" : "Queue::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,8 +76,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "List_Begin",
-	"nameOnDisk" : "List_Begin.exe",
+	"name" : "Queue",
+	"nameOnDisk" : "Queue.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Linear_List/List_Sq.c",
+			"path" : "Stack_Queue/Queue.c",
 			"sourceGroupIndex" : 0
 		}
 	],

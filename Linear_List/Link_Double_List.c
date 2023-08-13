@@ -1,7 +1,8 @@
 //
 // Created by lk129 on 2023/8/5.
+// 关于双向链表的学习
 //
-#include "All.h"
+#include "../All.h"
 
 typedef struct DuLNode {
     ElemType data;

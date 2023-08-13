@@ -3,5 +3,7 @@ F:/Clion/C_Data_Struct/cmake-build-debug/CMakeFiles/List_Begin.dir
 F:/Clion/C_Data_Struct/cmake-build-debug/CMakeFiles/List_Link.dir
 F:/Clion/C_Data_Struct/cmake-build-debug/CMakeFiles/Link_Circular_List.dir
 F:/Clion/C_Data_Struct/cmake-build-debug/CMakeFiles/Link_Double_List.dir
+F:/Clion/C_Data_Struct/cmake-build-debug/CMakeFiles/Stack.dir
+F:/Clion/C_Data_Struct/cmake-build-debug/CMakeFiles/Queue.dir
 F:/Clion/C_Data_Struct/cmake-build-debug/CMakeFiles/edit_cache.dir
 F:/Clion/C_Data_Struct/cmake-build-debug/CMakeFiles/rebuild_cache.dir

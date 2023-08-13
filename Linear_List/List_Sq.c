@@ -2,7 +2,7 @@
 // Created by lk129 on 2023/7/14.
 // 关于顺序线性表的学习
 //
-#include "All.h"
+#include "../All.h"
 
 //线性的动态分配顺序存储结构
 typedef struct {
